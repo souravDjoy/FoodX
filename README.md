@@ -2,3 +2,5 @@
 This is a start-up project I developed as a team in the course 'Technology Innovation' at Dalhousie University. This is an website platform that allows people to make meal plans based on preference and nutrition, and order those items from nearby grocery stores. It saves time of planning and a savior during Covid-19 as users can avoid grocery stores. 
 
 Check out the pitch: https://www.youtube.com/watch?v=74c9SHli6T4
+
+Check out the prototype: https://www.figma.com/proto/4Kv3pbm5F7ApcqIRhlh85o/FoodX-Tech-innovation?node-id=64%3A163&scaling=contain&page-id=0%3A1
